@@ -1,0 +1,19 @@
+
+[project]
+name = "petaexpress-sdk"
+version = "1.2.15"
+authors = [
+  { name="RAKSmart DEV", email="dev@raksmart.com" },
+]
+description = "Software Development Kit for PetaExpress Cloud."
+readme = "README.rst"
+requires-python = ">=2.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: APACHE 2.0 License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/peta-express/cloud-sdk-python"
+Issues = "https://github.com/peta-express/cloud-sdk-python/issues"
